@@ -9,4 +9,4 @@ a list of ongoing projects
 <p>pink hippo: predicting outcome of horse races:data acquisition</p>
 <p>scalde: Ai that uses evolution algorithm and lstm in keras to produce the best music for you:research</p>
 <p>beat the bot: Game where you have to compete against a bot to classify music:ongoing</p>
-<p>Pokedex using autoencoder elastic search and TTS</p>
+<p>Using autoencoder for researc in a painting dataset and retrieve informations</p>
